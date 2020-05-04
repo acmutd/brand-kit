@@ -17,27 +17,27 @@ This guide exists to help out anyone working with ACM's brand, intenally or exte
      - Banners
      - Documents
      - Posters/Flyers
-     - [Guide to ACM Projects Readme](/ACM%20Projects/ACM_Projects.md.md)
+     - [Guide to ACM Projects Readme](/ACM%20Projects/ACM_Projects.md)
    - _ACM Research_
      - Raw Assets
      - Logos
      - Banners
      - Documents
      - Posters/Flyers
-     - [Guide to ACM Research Readme](/ACM%20Research/ACM_Research.md.md)
+     - [Guide to ACM Research Readme](/ACM%20Research/ACM_Research.md)
    - _ACM Education_
      - Raw Assets
      - Logos
      - Banners
      - Documents
      - Posters/Flyers
-     - [Guide to ACM Education Readme](/ACM%20Education/ACM_Education.md.md)
+     - [Guide to ACM Education Readme](/ACM%20Education/ACM_Education.md)
    - _HackUTD_
      - Raw Assets
      - Logos
      - Banners
      - Posters/Flyers
-     - [Guide to HackUTD Readme](/HackUTD/HackUTD.md.md)
+     - [Guide to HackUTD Readme](/HackUTD/HackUTD.md)
      - Spring 2020 Raw Assets
      - Fall 2019 Raw Assets
      - Spring 2019 Raw Assets
@@ -50,7 +50,7 @@ This guide exists to help out anyone working with ACM's brand, intenally or exte
      - Email
      - Social Media
      - Officer Photos
-     - [Guide to _ACM_ Design Guidelines](/ACM%20General/ACM_Design.md.md)
+     - [Guide to _ACM_ Design Guidelines](/ACM%20General/ACM_Design.md)
 
 ## Usage Guidelines
 
@@ -58,7 +58,7 @@ This guide exists to help out anyone working with ACM's brand, intenally or exte
 We provide this repo (and the upcoming brand page on the [_ACM_ site](https://www.acmutd.co)) to house _ACM_ official brand assets for your use in accordance with our listed guidelines. We ask you to use these instead of opting to use the national _ACM_ branding to represent the Association for Computing Machinery at the University of Texas at Dallas. If you represent an organization that at any point has or will partner with _ACM_ these brand assets are available to be incorporated into your designs and other promotional material.
 
 ### Internal Use
-This guide isn’t meant to be an end-all be-all to how PR is handled within ACM. Instead, consider it a big list of the way things are done so far. If you like how it’s done already, here’s an outline to get you doing it quickly. If you think it can be done better, go for it. If it doesn’t work, it’s all good — but if it does? Then update this guide to reflect what you’ve changed, and that’ll be the starting point for _ACM_ going forward. Anyone can design for _ACM_, feel free to express your creativity by 
+This guide isn’t meant to be an end-all be-all to how PR is handled within ACM. Instead, consider it a big list of the way things are done so far. If you like how it’s done already, here’s an outline to get you doing it quickly. If you think it can be done better, go for it. If it doesn’t work, it’s all good — but if it does? Then update this guide to reflect what you’ve changed, and that’ll be the starting point for _ACM_ going forward. Anyone can design for _ACM_, feel free to express your creativity and support _ACM_ to be the best we can be.
 
 ### Questions and Concerns
 
