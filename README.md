@@ -37,10 +37,7 @@ This guide exists to help out anyone working with ACM's brand, intenally or exte
      - Logos
      - Banners
      - Posters/Flyers
-     - [Guide to HackUTD Readme](/HackUTD/HackUTD.md)
-     - Spring 2020 Raw Assets
-     - Fall 2019 Raw Assets
-     - Spring 2019 Raw Assets
+     - [Guide to HackUTD Readme](/HackUTD/README.md)
    - _ACM_ General
      - Assets
        - Logos
