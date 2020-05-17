@@ -1,37 +1,47 @@
 # The _ACM_ Brand &amp; Content Style Guide
 The brand &amp; content style guide of the Association for Computing Machinery
 
-## Purpose & Structure
-This guide exists to help out anyone working with ACM's brand, intenally or externally. This repository is meant to collectively hold all design assets used by _ACM_ at UT Dallas. Included with all design assets are also content style guidelines on how to use them. The repo structure is as follows
+## Purpose
+This guide exists to help out anyone working with ACM's brand, intenally or externally. This repository is meant to collectively hold all design assets used by _ACM_ at UT Dallas. Included with all design assets are also content style guidelines on how to use them. 
 
- - /
+## Accessing resources
+The content here is hosted under the _ACM_ website and can be accessed at [acmutd.co/brand](https://www.acmutd.co/brand/). To get the link for a specific asset attach a suffix to the end which represents the full path to the asset.
+
+Example: To retrieve the logo for _ACM Development_ which is under `/Development/Logos` the full path link would be [https://www.acmutd.co/brand/Development/Logos/light_dark_background.png](https://www.acmutd.co/brand/Development/Logos/light_dark_background.png)
+
+The upcoming designed brand page on the _ACM_ website will provide these links in a more easily accessible manner with available options to embed or download the assets
+
+## Structure
+The repo structure is as follows
+
+ - brand /
    - _ACM Development_
      - Raw Assets
      - Logos
      - Banners
      - Documents
-     - [Guide to ACM Development Readme](/ACM%20Development/ACM_Development.md)
+     - [Guide to ACM Development Readme](/Development/ACM_Development.md)
    - _ACM Projects_
      - Raw Assets
      - Logos
      - Banners
      - Documents
      - Posters/Flyers
-     - [Guide to ACM Projects Readme](/ACM%20Projects/ACM_Projects.md)
+     - [Guide to ACM Projects Readme](/Projects/ACM_Projects.md)
    - _ACM Research_
      - Raw Assets
      - Logos
      - Banners
      - Documents
      - Posters/Flyers
-     - [Guide to ACM Research Readme](/ACM%20Research/ACM_Research.md)
+     - [Guide to ACM Research Readme](/Research/ACM_Research.md)
    - _ACM Education_
      - Raw Assets
      - Logos
      - Banners
      - Documents
      - Posters/Flyers
-     - [Guide to ACM Education Readme](/ACM%20Education/ACM_Education.md)
+     - [Guide to ACM Education Readme](/Education/ACM_Education.md)
    - _HackUTD_
      - Raw Assets
      - Logos and Banners
@@ -47,8 +57,12 @@ This guide exists to help out anyone working with ACM's brand, intenally or exte
      - Flyer/Poster
      - Email
      - Social Media
-     - Officer Photos
-     - [Guide to _ACM_ Design Guidelines](/ACM%20General/ACM_Design.md)
+     - Officer
+       - Headshots
+       - Markdown
+         - Current
+         - Alumni
+     - [Guide to _ACM_ Design Guidelines](/General/ACM_Design.md)
 
 ## Usage Guidelines
 

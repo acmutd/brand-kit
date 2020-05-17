@@ -30,6 +30,9 @@ If you are a developer for _ACM Development_ you may want to incorporate the off
  - Using the logo on an app
  - Additional information
 
+#### Authentication
+If you would like to incorporate _ACM_ Single Sign On you must use following image assets to redirect the authentication provider
+
 ## Contact
 Sometimes you may have questions about the content here and here's who to reach out to if that happens
 
