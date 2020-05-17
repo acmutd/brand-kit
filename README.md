@@ -34,13 +34,11 @@ This guide exists to help out anyone working with ACM's brand, intenally or exte
      - [Guide to ACM Education Readme](/ACM%20Education/ACM_Education.md)
    - _HackUTD_
      - Raw Assets
-     - Logos
-     - Banners
-     - Posters/Flyers
-     - [Guide to HackUTD Readme](/HackUTD/HackUTD.md)
-     - Spring 2020 Raw Assets
-     - Fall 2019 Raw Assets
-     - Spring 2019 Raw Assets
+     - Logos and Banners
+     - Social Media
+     - Posters
+     - Documents
+     - [Guide to HackUTD Readme](/HackUTD/README.md)
    - _ACM_ General
      - Assets
        - Logos
