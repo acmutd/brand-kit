@@ -4,11 +4,20 @@ Styling guidelines for _ACM Development_
 ## Color Scheme
 This is the official color scheme for _ACM Development_.
 
- - Add hex codes
- - Determine primary dark
- - Determine primary light
+ - Logo colors
+   - Dark logo on light background
+     - #37116b (logo color)
+     - #ffffff (white background)
+   - Light logo on dark background
+     - #c3a9ff (logo color)
+     - #260f46 (primary dark background) 
+
+ - use hex color #d4185c as accent color
  - Additional notes
- - Add color image
+   - shades of purple that veer on the bluer side of things are suitable themes
+   - possible medium color #9471e7
+
+![color_palette_image](https://www.acmutd.co/brand/Development/Color_Palette/color_palette.png)
 
 ## Logo Usage
 
@@ -30,8 +39,14 @@ If you are a developer for _ACM Development_ you may want to incorporate the off
  - Using the logo on an app
  - Additional information
 
+#### Authentication
+If you would like to incorporate _ACM_ Single Sign On you must use following image assets to redirect to the authentication provider
+
+#### Overlay
+On website and app launch display the logos for _ACM_ and _ACM Development_. Design for that overlay will be added soon.
+
 ## Contact
 Sometimes you may have questions about the content here and here's who to reach out to if that happens
-
  - [Director of Development](mailto:development@acmutd.co)
  - [Design Team](mailto:contact@acmutd.co)
+
