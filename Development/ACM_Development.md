@@ -47,6 +47,6 @@ On website and app launch display the logos for _ACM_ and _ACM Development_. Des
 
 ## Contact
 Sometimes you may have questions about the content here and here's who to reach out to if that happens
+ - [Director of Development](mailto:development@acmutd.co)
+ - [Design Team](mailto:contact@acmutd.co)
 
- - [Director of Development](mailto:comet.acm@gmail.com)
- - [Design Team](mailto:comet.acm@gmail.com)
