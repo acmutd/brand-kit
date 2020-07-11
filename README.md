@@ -62,7 +62,7 @@ This guide isn’t meant to be an end-all be-all to how PR is handled within ACM
 
 ### Questions and Concerns
 
-If you have a question regarding the appropriate usage of the offical brand assets of _ACM_ reach out to the [Director of Design](mailto:comet.acm@gmail.com). We will also be able to answer any questions regarding the modification or adaptation of the _ACM_ brand assets for specific use cases. If your question involves the incorporation of these assets in a digital format reach out to the [Director of Development](mailto:comet.acm@gmail.com). 
+If you have a question regarding the appropriate usage of the offical brand assets of _ACM_ reach out to the [Director of Design](mailto:contact@acmutd.co). We will also be able to answer any questions regarding the modification or adaptation of the _ACM_ brand assets for specific use cases. If your question involves the incorporation of these assets in a digital format reach out to the [Director of Development](mailto:development@acmutd.co). 
 
 ## _ACM_ Vision
 

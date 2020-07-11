@@ -33,5 +33,5 @@ If you are a developer for _ACM Development_ you may want to incorporate the off
 ## Contact
 Sometimes you may have questions about the content here and here's who to reach out to if that happens
 
- - [Director of Development](mailto:comet.acm@gmail.com)
- - [Design Team](mailto:comet.acm@gmail.com)
+ - [Director of Development](mailto:development@acmutd.co)
+ - [Design Team](mailto:contact@acmutd.co)
