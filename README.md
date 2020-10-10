@@ -49,6 +49,10 @@ The repo structure is as follows
      - Posters
      - Documents
      - [Guide to HackUTD Readme](/HackUTD/README.md)
+   - _Hacktoberfest_
+     - Partner Orgs
+     - Speaker Headshots
+     - [Guide to Hacktoberfest Readme](/Hacktoberfest/README.md)
    - _ACM_ General
      - Assets
        - Logos

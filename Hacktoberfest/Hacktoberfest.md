@@ -1,8 +1,8 @@
-# _ACM Research_
-Styling guidelines for _ACM Research_
+# _Hacktoberfest_
+Styling guidelines for _Hacktoberfest_
 
 ## Contact
 Sometimes you may have questions about the content here and here's who to reach out to if that happens
 
- - [Director of Research](mailto:contact@acmutd.co)
+ - [Director of Hacktoberfest](mailto:hacktoberfest@acmutd.co)
  - [Design Team](mailto:contact@acmutd.co)
