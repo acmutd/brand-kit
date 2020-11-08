@@ -8,6 +8,7 @@ Every HackUTD event has its own branding guidelines, but general HackUTD documen
 ## Contact
 Sometimes you may have questions about the content here and here's who to reach out to if that happens
 
- - [Director of HackUTD](mailto:contact@acmutd.co)
- - [HackUTD Marketing Team](mailto:contact@acmutd.co)
+ - [Director of HackUTD](mailto:hello@hackutd.co)
+ - [HackUTD Marketing Team](mailto:marketing@hackutd.co)
+ - [Director of ACM Design](mailto:contact@acmutd.co)
 
